@@ -28,9 +28,8 @@
 
   <!-- Commit Streak -->
   <p>
- <img 
-  src="https://streak-stats.demolab.com?user=lazarobrito1..."
-/>
+ <img src="https://streak-stats.demolab.com?user=lazarobrito1&locale=en" />
+
 
 
   </p>
