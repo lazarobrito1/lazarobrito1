@@ -28,10 +28,15 @@
 
   <!-- Commit Streak -->
   <p>
-    <img 
-      src="https://streak-stats.demolab.com?user=lazarobrito1&theme=tokyonight&hide_border=true"
-      alt="GitHub Streak"
-    />
+   <img 
+  src="https://streak-stats.demolab.com?
+user=lazarobrito1
+&theme=transparent
+&hide_border=true
+&locale=en"
+  alt="GitHub Streak"
+/>
+
   </p>
 
   <!-- Profile metrics -->
