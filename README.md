@@ -28,9 +28,11 @@
 
   <!-- Commit Streak -->
   <p>
- <img src="https://streak-stats.demolab.com?user=lazarobrito1&locale=en" />
 
-
+ <img 
+      src="https://streak-stats.demolab.com?user=lazarobrito1&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+    />
 
   </p>
 
