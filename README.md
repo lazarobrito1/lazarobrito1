@@ -34,19 +34,15 @@
     />
   </p>
 
-  <!-- Stable metrics -->
+  <!-- Profile metrics -->
   <p>
     <img 
       src="https://img.shields.io/github/followers/lazarobrito1?style=for-the-badge&logo=github&logoColor=white" 
       alt="Followers"
     />
-    <img 
-      src="https://img.shields.io/github/commit-activity/y/lazarobrito1?style=for-the-badge&logo=git&logoColor=white" 
-      alt="Commits per year"
-    />
   </p>
 
-  <!-- Visitor counter -->
+  <!-- Visitor Counter (ONLY ONE) -->
   <p>
     <img 
       src="https://komarev.com/ghpvc/?username=lazarobrito1&style=for-the-badge&color=blue"
@@ -54,14 +50,6 @@
     />
   </p>
 
-
-  <!-- Visitor counter -->
-  <p>
-    <img 
-      src="https://komarev.com/ghpvc/?username=lazarobrito1&style=for-the-badge&color=blue"
-      alt="Profile views"
-    />
-  </p>
 
   <hr width="60%" />
 
