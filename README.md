@@ -25,16 +25,12 @@
   <hr width="60%" />
 
   <!-- Atividade no GitHub -->
-  <h3>🤖 Atividade no GitHub</h3>
-  <p>
-    <img src="https://img.shields.io/github/forks/lazarobrito1/rest-api?style=for-the-badge&logo=github&logoColor=white" alt="Forks REST API"/>
-    <img src="https://img.shields.io/github/stars/lazarobrito1/rest-api?style=for-the-badge&logo=github&logoColor=white" alt="Stars REST API"/>
-    <img src="https://img.shields.io/github/commit-activity/m/lazarobrito1/rest-api?style=for-the-badge&logo=github&logoColor=white" alt="Commits REST API"/>
-    <br/>
-    <img src="https://img.shields.io/github/forks/lazarobrito1/task-manager?style=for-the-badge&logo=github&logoColor=white" alt="Forks Task Manager"/>
-    <img src="https://img.shields.io/github/stars/lazarobrito1/task-manager?style=for-the-badge&logo=github&logoColor=white" alt="Stars Task Manager"/>
-    <img src="https://img.shields.io/github/commit-activity/m/lazarobrito1/task-manager?style=for-the-badge&logo=github&logoColor=white" alt="Commits Task Manager"/>
-  </p>
+<h3>🤖 Atividade no GitHub</h3>
+<p>
+  <img src="https://img.shields.io/github/forks/lazarobrito1?style=for-the-badge&logo=github&logoColor=white" alt="Forks totais"/>
+  <img src="https://img.shields.io/github/stars/lazarobrito1?style=for-the-badge&logo=github&logoColor=white" alt="Stars totais"/>
+  <img src="https://img.shields.io/github/commit-activity/y/lazarobrito1?style=for-the-badge&logo=github&logoColor=white" alt="Commits últimos 12 meses"/>
+</p>
 
   <hr width="60%" />
 
