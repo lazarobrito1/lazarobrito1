@@ -8,7 +8,7 @@
     Back-End Developer | Java & Spring Boot<br/>
     Desenvolvedor Back-End focado em criar APIs robustas e sistemas escaláveis.<br/>
     Experiência com <strong>Java, Spring Boot, JavaScript, HTML, CSS, MySQL e MongoDB</strong>.<br/>
-    Atualmente curso <strong>Análise e Desenvolvimento de Sistemas (ADS) na UNINTER</strong>.
+    Atualmente curso <strong>Análise e Desenvolvimento de Sistemas (ADS) na Universidade Internacional – UNINTER</strong>.
   </p>
 
   <p>📍 Belém - Pará, Brasil</p>
@@ -24,9 +24,13 @@
   <hr width="60%" />
 
   <!-- Atividade no GitHub -->
-  <h3>🤖 Atividade no GitHub (total commits últimos 12 meses)</h3>
+  <h3>🤖 Atividade no GitHub</h3>
   <p>
-    <img src="https://img.shields.io/github/commit-activity/y/lazarobrito1?style=for-the-badge&logo=github&logoColor=white" alt="Commits últimos 12 meses"/>
+    <!-- Gráfico de contribuições oficial -->
+    <img src="https://github.com/lazarobrito1.png" alt="GitHub Contribution Graph" width="500"/>
+    <br/>
+    <!-- Badge de seguidores -->
+    <img src="https://img.shields.io/github/followers/lazarobrito1?style=for-the-badge&logo=github&logoColor=white" alt="Seguidores"/>
   </p>
 
   <hr width="60%" />
@@ -77,4 +81,3 @@
   <p><em>"Sempre aprendendo, sempre evoluindo."</em></p>
 
 </div>
-
