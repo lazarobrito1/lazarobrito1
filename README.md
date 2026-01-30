@@ -24,15 +24,36 @@
   <hr width="60%" />
 
   <!-- Atividade no GitHub -->
-  <h3>🤖 Atividade no GitHub</h3>
-  <p>
-    <!-- Gráfico de contribuições oficial -->
-    <img src="https://github.com/lazarobrito1.png" alt="GitHub Contribution Graph" width="500"/>
-    <br/>
-    <!-- Badge de seguidores -->
-    <img src="https://img.shields.io/github/followers/lazarobrito1?style=for-the-badge&logo=github&logoColor=white" alt="Seguidores"/>
-  </p>
+  <!-- Título -->
+  <h2>📊 Estatísticas</h2>
 
+  <!-- Cards principais -->
+  <table>
+    <tr>
+      <!-- Card Estatísticas -->
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+          alt="GitHub Stats"
+        />
+      </td>
+
+      <!-- Card Linguagens -->
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Tecnologias (barra visual) -->
+  <h3>🛠️ Tecnologias</h3>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sql,git&theme=dark" />
   <hr width="60%" />
 
   <!-- Projetos em destaque -->
