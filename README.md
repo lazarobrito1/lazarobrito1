@@ -26,7 +26,7 @@
   <!-- GitHub Activity -->
   <h3>📊 GitHub Activity</h3>
 
-  <!-- Commit streak -->
+  <!-- Commit Streak -->
   <p>
     <img 
       src="https://streak-stats.demolab.com?user=lazarobrito1&theme=tokyonight&hide_border=true"
@@ -41,14 +41,19 @@
       alt="Followers"
     />
     <img 
-      src="https://img.shields.io/github/stars/lazarobrito1?style=for-the-badge&logo=github&logoColor=white" 
-      alt="Stars"
-    />
-    <img 
       src="https://img.shields.io/github/commit-activity/y/lazarobrito1?style=for-the-badge&logo=git&logoColor=white" 
       alt="Commits per year"
     />
   </p>
+
+  <!-- Visitor counter -->
+  <p>
+    <img 
+      src="https://komarev.com/ghpvc/?username=lazarobrito1&style=for-the-badge&color=blue"
+      alt="Profile views"
+    />
+  </p>
+
 
   <!-- Visitor counter -->
   <p>
