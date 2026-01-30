@@ -1,104 +1,116 @@
 <div align="center">
 
-  <!-- Nome com café -->
+  <!-- Name -->
   <h1>☕ Lázaro Brito Barroso</h1>
 
-  <!-- Apresentação -->
+  <!-- About -->
   <p>
     Back-End Developer | Java & Spring Boot<br/>
-    Desenvolvedor Back-End focado em criar APIs robustas e sistemas escaláveis.<br/>
-    Experiência com <strong>Java, Spring Boot, JavaScript, HTML, CSS, MySQL e MongoDB</strong>.<br/>
-    Atualmente curso <strong>Análise e Desenvolvimento de Sistemas (ADS) na Universidade Internacional – UNINTER</strong>.
+    Back-End developer focused on building robust APIs and scalable systems.<br/>
+    Experience with <strong>Java, Spring Boot, JavaScript, HTML, CSS, MySQL and MongoDB</strong>.<br/>
+    Currently studying <strong>Systems Analysis and Development (ADS) at UNINTER University</strong>.
   </p>
 
-  <p>📍 Belém - Pará, Brasil</p>
+  <p>📍 Belém, Pará – Brazil</p>
 
   <hr width="60%" />
 
-  <!-- Tecnologias -->
-  <h3>🤖 Tecnologias & Ferramentas</h3>
+  <!-- Technologies -->
+  <h3>🤖 Technologies & Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=java,spring,javascript,html,css,mysql,mongodb,git,github" alt="Tecnologias"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,javascript,html,css,mysql,mongodb,git,github&theme=dark" alt="Technologies"/>
   </p>
 
   <hr width="60%" />
 
-  <!-- Atividade no GitHub -->
-  <!-- Título -->
-  <h2>📊 Estatísticas</h2>
+  <!-- GitHub Activity -->
+  <h3>📊 GitHub Activity</h3>
 
-  <!-- Cards principais -->
+  <!-- Commit streak -->
+  <p>
+    <img 
+      src="https://streak-stats.demolab.com?user=lazarobrito1&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </p>
+
+  <!-- Stable metrics -->
+  <p>
+    <img 
+      src="https://img.shields.io/github/followers/lazarobrito1?style=for-the-badge&logo=github&logoColor=white" 
+      alt="Followers"
+    />
+    <img 
+      src="https://img.shields.io/github/stars/lazarobrito1?style=for-the-badge&logo=github&logoColor=white" 
+      alt="Stars"
+    />
+    <img 
+      src="https://img.shields.io/github/commit-activity/y/lazarobrito1?style=for-the-badge&logo=git&logoColor=white" 
+      alt="Commits per year"
+    />
+  </p>
+
+  <!-- Visitor counter -->
+  <p>
+    <img 
+      src="https://komarev.com/ghpvc/?username=lazarobrito1&style=for-the-badge&color=blue"
+      alt="Profile views"
+    />
+  </p>
+
+  <hr width="60%" />
+
+  <!-- Featured Projects -->
+  <h3>💻 Featured Projects</h3>
   <table>
     <tr>
-      <!-- Card Estatísticas -->
       <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-          alt="GitHub Stats"
-        />
+        <img src="https://img.icons8.com/ios-filled/24/000000/server.png" width="24"/> 
+        <a href="https://github.com/lazarobrito1/rest-api" target="_blank">
+          REST API with Spring Boot
+        </a>
       </td>
-
-      <!-- Card Linguagens -->
+    </tr>
+    <tr>
       <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-          alt="Top Languages"
-        />
+        <img src="https://img.icons8.com/ios-filled/24/000000/task.png" width="24"/> 
+        <a href="https://github.com/lazarobrito1/task-manager" target="_blank">
+          Task Manager (Spring + Thymeleaf)
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.icons8.com/ios-filled/24/000000/internet.png" width="24"/> 
+        <a href="https://github.com/lazarobrito1/Landing-Page" target="_blank">
+          Responsive Landing Page
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.icons8.com/ios-filled/24/000000/monitor.png" width="24"/> 
+        <a href="https://github.com/lazarobrito1/export_process_manager" target="_blank">
+          JavaFX Application
+        </a>
       </td>
     </tr>
   </table>
 
-  <br/>
-
-  <!-- Tecnologias (barra visual) -->
-  <h3>🛠️ Tecnologias</h3>
-
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sql,git&theme=dark" />
   <hr width="60%" />
 
-  <!-- Projetos em destaque -->
-  <h3>💻 Projetos em Destaque</h3>
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.icons8.com/ios-filled/24/000000/server.png" alt="Servidor" width="24" /> 
-        <a href="https://github.com/lazarobrito1/rest-api" target="_blank">REST API com Spring Boot</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.icons8.com/ios-filled/24/000000/task.png" alt="Task Manager" width="24" /> 
-        <a href="https://github.com/lazarobrito1/task-manager" target="_blank">Task Manager (Spring + Thymeleaf)</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.icons8.com/ios-filled/24/000000/internet.png" alt="Landing Page" width="24" /> 
-        <a href="https://github.com/lazarobrito1/Landing-Page" target="_blank">Landing Page Responsiva</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.icons8.com/ios-filled/24/000000/monitor.png" alt="JavaFX" width="24" /> 
-        <a href="https://github.com/lazarobrito1/export_process_manager" target="_blank">Aplicação JavaFX</a>
-      </td>
-    </tr>
-  </table>
-
-  <hr width="60%" />
-
-  <!-- Contato -->
-  <h3>📫 Conecte-se comigo</h3>
+  <!-- Contact -->
+  <h3>📫 Connect with me</h3>
   <p>
-    <a href="https://www.linkedin.com/in/l%C3%A1zaro-brito-91044b1b5" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/l%C3%A1zaro-brito-91044b1b5" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:lazabrito30@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </p>
 
   <br/>
-  <p><em>"Sempre aprendendo, sempre evoluindo."</em></p>
+  <p><em>"Always learning, always evolving."</em></p>
 
 </div>
