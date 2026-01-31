@@ -57,6 +57,14 @@
   <!-- Featured Projects -->
   <h3>💻 Featured Projects</h3>
   <table>
+     <tr>
+      <td>
+        <img src="https://img.icons8.com/ios-filled/24/000000/monitor.png" width="24"/> 
+        <a href="https://github.com/lazarobrito1/export_process_manager" target="_blank">
+          Export-Process-Manager
+        </a>
+      </td>
+    </tr>
     <tr>
       <td>
         <img src="https://img.icons8.com/ios-filled/24/000000/server.png" width="24"/> 
@@ -78,14 +86,6 @@
         <img src="https://img.icons8.com/ios-filled/24/000000/internet.png" width="24"/> 
         <a href="https://github.com/lazarobrito1/Landing-Page" target="_blank">
           Responsive Landing Page
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.icons8.com/ios-filled/24/000000/monitor.png" width="24"/> 
-        <a href="https://github.com/lazarobrito1/export_process_manager" target="_blank">
-          JavaFX Application
         </a>
       </td>
     </tr>
