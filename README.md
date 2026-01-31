@@ -1,9 +1,4 @@
 <div align="center">
-<p>
-  <a href="https://www.linkedin.com/in/l%C3%A1zaro-brito-91044b1b5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-L%C3%A1zaro%20Brito-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
   <!-- Name -->
   <h1>☕ Lázaro Brito Barroso</h1>
 
